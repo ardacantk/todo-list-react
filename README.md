@@ -1,3 +1,5 @@
+React Todo List clone:
+
 ![hw2](https://user-images.githubusercontent.com/95983921/232871791-76fa3b56-2d10-486f-83c6-59be5290df3d.PNG)
 
 
